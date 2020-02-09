@@ -79,7 +79,7 @@ body{
 	text-transform:uppercase;
 }
 .naslov{
-	/*border: 1px solid black;*/
+	
 	margin-top:15px;
 	height:35px;
 	text-align:center;
@@ -96,7 +96,7 @@ body{
 	font-family:sans-serif;
 }
 #slike-holder{
-	/*border:1px solid black;*/
+	
 	height:500px;
 	width:1300px;
 	margin:auto;
@@ -183,4 +183,26 @@ body{
 }
 .darkbox1 h3{
 		text-align:center;
+}
+#autor{
+	
+	height:400px;
+	width:900px;
+	margin:10px auto;
+	background-color:#B22212;
+	padding:40px;
+}
+#autor img{
+	height:100%;
+	height:250px;
+}
+#autor p{
+	float:right;
+	font-family:sans-serif;
+	letter-spacing:1px;
+	text-decoration:none;
+	font-size:32px;
+	width:400px;
+	color:#FFE4B5;
+	padding:10px;
 }
